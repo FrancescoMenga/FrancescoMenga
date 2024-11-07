@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FrancescoMenga
-- 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning Angular Libraries and web applications userface
+- 👀 I’m interested in Node JS
+- 🌱 I’m currently developing clean coding skills
 
 <!---
 FrancescoMenga/FrancescoMenga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
